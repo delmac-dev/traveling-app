@@ -10,7 +10,7 @@ interface FeatureProps {
 
 const Features = () => {
   return (
-    <section className="border border-red-500 flex-col flexCenter bg-norepeat bg-feature-bg overflow-hidden bg-center bg-no-repeat py-24">
+    <section className="flex-col flexCenter bg-norepeat bg-feature-bg overflow-hidden bg-center bg-no-repeat py-24">
       <div className="max-container padding-container relative w-full flex justify-end">
         <div className="flex flex-1 lg:min-h-[900px]">
           <Image
