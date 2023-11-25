@@ -36,7 +36,7 @@ const Hero = () => {
           </p>
         </div>
 
-        <div className="mb-11 flex w-full gap-3 sm:flex-row">
+        <div className="mb-11 flex flex-col w-full gap-3 sm:flex-row">
           <Button
             type='button'
             title='Download App'
