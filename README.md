@@ -4,6 +4,8 @@ This project is a travel website built with Next.js 14 and styled with Tailwind 
 
 ![travel app](https://github.com/delmac-dev/traveling-app/assets/136045782/aa77096e-0eed-4691-b458-0e7af3dc46b1)
 
+The website is deployed and can be accessed at [traveling-app-dev.vercel.app](https://traveling-app-dev.vercel.app/)
+
 ## Frameworks
 
 - Next.js 14
