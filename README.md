@@ -25,13 +25,13 @@ The website is deployed and can be accessed at [traveling-app-dev.vercel.app](ht
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nextjs-travel-website.git
+   git clone https://github.com/delmac-dev/traveling-app.git
    ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nextjs-travel-website
+    cd traveling-app
     ```
 3. Install the dependencies:
 
