@@ -2,9 +2,11 @@
 
 This project is a travel website built with Next.js 14 and styled with Tailwind CSS. It was created following a YouTube tutorial, and it serves as a great starting point for anyone looking to learn Next.js and Tailwind CSS for web development.
 
-![travel app](https://github.com/delmac-dev/traveling-app/assets/136045782/aa77096e-0eed-4691-b458-0e7af3dc46b1)
-
 The website is deployed and can be accessed at [traveling-app-dev.vercel.app](https://traveling-app-dev.vercel.app/)
+
+## Screenshot
+
+![travel app](https://github.com/delmac-dev/traveling-app/assets/136045782/1f7c9189-6294-4644-8e59-2bf862bccb76)
 
 ## Frameworks
 
